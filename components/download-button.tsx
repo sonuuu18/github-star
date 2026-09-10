@@ -93,7 +93,7 @@ export function DownloadButton({ info, disabled }: DownloadButtonProps) {
   // Completed state
   if (state.type === 'done') {
     return (
-      <div className="flex flex-col items-center gap-4">
+      <div className="flex flex-col mb-5 items-center gap-4">
         <div className="flex flex-col items-center gap-3 sm:flex-row sm:gap-4">
           <Button
             onClick={handleDownload}
