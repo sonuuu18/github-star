@@ -5,7 +5,7 @@ Turn your GitHub repository stars into an animated, shareable video.
 Paste a GitHub repository URL, and GitStar fetches its star count and generates a video you can download and share.
 
 ## 🎥 Demo
-Uploading github-star-compressed.mp4…
+https://github.com/user-attachments/assets/75fb022a-6f69-48e9-ba1c-43f847e17ddd
 
 ## ✨ Features
 
